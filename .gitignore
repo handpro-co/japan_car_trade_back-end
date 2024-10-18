@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Node Modules
+node_modules
+
+# Vim swap files
+*.swp
+*.swo
+
+# Mac things
+.DS_Store
+
